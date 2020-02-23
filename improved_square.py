@@ -5,7 +5,7 @@
 # This is improved version using loop
 #################################################
 import turtle
-from typing import List
+
 
 wn = turtle.Screen()
 wn.bgcolor("light green")
