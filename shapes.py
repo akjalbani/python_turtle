@@ -1,3 +1,9 @@
+###################################################
+# THis is a simple python program to learn if-else in turtle
+# Author : Akhtar Jalbani
+# Version: 0.1
+# # This is simple version
+#################################################
 import turtle
 wn = turtle.Screen()
 turtle1= turtle.Turtle()
