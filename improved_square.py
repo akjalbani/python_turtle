@@ -3,6 +3,7 @@
 # Author : Akhtar Jalbani
 # Version: 0.2
 # This is improved version using loop
+# Tested on : python IDLE
 #################################################
 import turtle
 
