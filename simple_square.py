@@ -3,6 +3,7 @@
 # Author : Akhtar Jalbani
 # Version: 0.1
 # This is simple version
+# Tested on : python IDLE
 #################################################
 
 import turtle
