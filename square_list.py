@@ -1,6 +1,6 @@
 # Demo for using list, nested loops and functions
-# tested in repl.it
 # @ Author : Akhtar Jalbani
+# Tested on : python online IDE REPL.IT
 
 import turtle
 def Square_with_color(length,color):
